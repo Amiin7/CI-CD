@@ -1,0 +1,19 @@
+# key value pairs 
+
+name: Res
+age: 21
+
+
+#list
+
+Fruits:
+- Apple
+- Organge 
+- Strawberries
+
+#nested
+
+address:
+  street: 123
+  place: llo
+  country: Wakanda
